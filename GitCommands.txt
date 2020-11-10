@@ -1,0 +1,2 @@
+cd <directory>      Enter into a directory
+cd ..               Get back from a directory
