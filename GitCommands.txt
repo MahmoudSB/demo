@@ -6,3 +6,5 @@ git init            initialize a git in the current directory
 git user.username <your git username>      connect local git to a user name 
 git remote add origin <Https link of a repository in github>       Adds a remote origin from github
 git clone <Https link of a repository in github>        Copys all data in a repository to the current directory
+
+git add -A    Adds the last changes to the git
