@@ -1,5 +1,6 @@
 cd <directory>      Enter into a directory
 cd ..               Get back from a directory
+cd		    Resets the Directory
 ls                  List of files and folders on the current directory
 
 git init            initialize a git in the current directory
