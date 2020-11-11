@@ -9,3 +9,4 @@ git remote add origin <Https link of a repository in github>       Adds a remote
 git clone <Https link of a repository in github>        Copys all data in a repository to the current directory
 
 git add -A    Adds the last changes to the git
+git push		pushes all data from local repo to remote repo.
