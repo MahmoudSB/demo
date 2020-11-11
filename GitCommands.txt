@@ -10,3 +10,4 @@ git clone <Https link of a repository in github>        Copys all data in a repo
 
 git add -A    Adds the last changes to the git
 git push		pushes all data from local repo to remote repo.
+git commit -m "your comment"		Commits the changes to the local git
